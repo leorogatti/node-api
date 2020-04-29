@@ -190,7 +190,7 @@ module.exports = routes;
 
 ![](https://user-images.githubusercontent.com/57969961/80552510-3fb63d00-899d-11ea-92ff-40d89562b786.png)
 
-# *Thanks for read.
+# -Thanks for read.
 
 
 
