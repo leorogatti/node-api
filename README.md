@@ -1,11 +1,5 @@
 # Node-api project.
 
-## For this project you need:
-
-* NodeJS
-* Nodemon
-* MongoDB
-
 # NodeJS
 ![](https://user-images.githubusercontent.com/57969961/80528023-a4f13a80-896b-11ea-80ab-3a23de16f33a.jpg)
 ## What is Node?
